@@ -1,2 +1,2 @@
 20243135 고민규
-Kookmin Univ. SW
+Kookmin Univ. AI  
